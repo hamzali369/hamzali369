@@ -199,8 +199,51 @@ jobs:
 <!--
 **hamzali369/hamzali369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=230&section=header&text=Hamza%20Ali&fontSize=75&fontColor=58A6FF&fontAlignY=38&desc=Statistics%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Python%20%E2%80%A2%20R&descColor=8b949e&descSize=20&descAlignY=58&animation=fadeIn" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BSc+Statistics+%40+COMSATS+University+Islamabad;Data+Science+%7C+Python+%7C+R+%7C+SQL;Statistical+Modelling+%7C+Machine+Learning;Building+models+that+mean+something;Currently+exploring+financial+data+%F0%9F%93%88" alt="Typing SVG" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/syed-hamza-ali-741b41325">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:h6648222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/3.14_1.618">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/hamzali369">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzali369&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/hamzali369?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=FOLLOWERS" />
+</p>
+
+---
+
+## 👤 About Me
+
+```python
+hamza = {
+    "name"       : "Syed Hamza Ali",
+    "university" : "COMSATS University Islamabad — Lahore Campus",
+    "degree"     : "BSc Statistics",
+    "focus"      : ["Data Science", "Statistical Modelling", "Machine Learning"],
+    "languages"  : ["Python", "R", "SQL"],
+    "interests"  : ["Financial Markets (PSX)", "Predictive Analytics", "Econometrics"],
+    "currently"  : "Building projects that bridge statistics and real-world decisions",
+    "fun_fact"   : "My Instagram handle is π and φ — says everything about me 🤓"
+}
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
